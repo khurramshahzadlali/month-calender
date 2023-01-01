@@ -17,8 +17,8 @@
 
 
 .calender {
-    width: 480px;
-    height: 520px;
+    width: 360px;
+    height: 480px;
     background-color: #054752;
     color: whitesmoke;
     border-radius: 10px;
@@ -75,8 +75,8 @@
 .days div {
     font-size: 14px;
     margin: 3px;
-    width: 62px;
-    height: 50px;
+    width: 44.75px;
+    height: 46px;
     display: flex;
     justify-content: center;
     align-items: center;
